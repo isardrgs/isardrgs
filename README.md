@@ -3,6 +3,8 @@
 <div style="display: inline_block"><br>
   <div>
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=isardrgs&show_icons=true&theme=synthwave"/>
+    <img width="20%" src="https://github.com/user-attachments/assets/1d36c160-8bd7-48a6-a247-7cad2ca56095">
+
     
   </div>
   <p>📚 Atualmente estudando HTML, CSS e Javascript.</p>
