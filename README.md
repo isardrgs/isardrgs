@@ -37,6 +37,9 @@ Sou estudante de Ciência da Computação e atuo como desenvolvedora **Fullstack
   <img src="https://img.shields.io/badge/Git_&_GitHub-ffb6c1?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
+  ### 💌 Contato
+
+<div align="center">
   <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/E--mail-f3e5f5?style=for-the-badge&logo=gmail&logoColor=6a1b9a" /></a>
   <a href="https://linkedin.com/in/seu-perfil"><img src="https://img.shields.io/badge/LinkedIn-f3e5f5?style=for-the-badge&logo=linkedin&logoColor=6a1b9a" /></a>
 
