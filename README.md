@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=cbaacb&height=120&section=header&text=Fullstack&fontSize=50&fontColor=ffffff" alt="Fullstack Banner" />
 
   <h1>🌸 Olá, eu sou a Isabelle!</h1>
-  <p><i>Desenvolvedora Fullstack & UI Designer</i></p>
+  <p><i>Desenvolvedora Fullstack</i></p>
 
   <img src="https://img.shields.io/badge/Ciência_da_Computação-🎓-f3e5f5?style=flat-square&logoColor=6a1b9a" />
   <img src="https://img.shields.io/badge/Formatura-2º_Semestre_2027-f3e5f5?style=flat-square&logoColor=6a1b9a" />
@@ -14,11 +14,6 @@
 
 Sou estudante de Ciência da Computação e atuo como desenvolvedora **Fullstack**, com foco na união entre inovação tecnológica e identidades visuais estratégicas. Meu objetivo é criar aplicações digitais que sejam funcionais, seguras e esteticamente consistentes.
 
-- 🎓 Graduação em andamento em **Ciência da Computação**.
-- 💡 Experiência no desenvolvimento de interfaces web responsivas e aplicações desktop.
-- 🎨 Forte interesse e atuação em UI/UX e design de marcas.
-
----
 
 ### 🛠️ Tecnologias e Habilidades
 
