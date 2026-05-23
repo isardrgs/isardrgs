@@ -16,11 +16,11 @@ Sou estudante de Ciência da Computação e atuo como desenvolvedora **Fullstack
 
 - 🎓 Graduação em andamento em **Ciência da Computação**.
 - 💡 Experiência no desenvolvimento de aplicações web responsivas e softwares para desktop.
-- 🚀 Foco constante em aprimorar habilidades tanto no Frontend quanto no Backend.
+- 🤍 Foco constante em aprimorar habilidades tanto no Frontend quanto no Backend.
 
 ---
 
-### 🛠️ Tecnologias e Habilidades
+### ✨ Tecnologias e Habilidades
 
 <div align="center">
   <h4>Frontend</h4>
