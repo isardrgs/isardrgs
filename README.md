@@ -1,78 +1,53 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=b39ddb&height=140&section=header&text=Fullstack&fontSize=55&fontColor=ffffff" alt="Fullstack Banner" />
-  
-  <br>
-  
-  <h1>🌸 Olá, eu sou a Isabelle! ✨</h1>
-  <p><i>Unindo lógica, criatividade e pixels para transformar linhas de código em experiências encantadoras!</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=cbaacb&height=120&section=header&text=Fullstack&fontSize=50&fontColor=ffffff" alt="Fullstack Banner" />
 
-  <p>
-    <img src="https://img.shields.io/badge/Status-Codando%20com%20Amor%20%F0%9F%92%96-f3e5f5?style=flat-square" />
-    <img src="https://img.shields.io/badge/Previs%C3%A3o%20Formatura-2027%20%F0%9F%8D%93-f3e5f5?style=flat-square" />
-  </p>
-  
-  <text>👾 ══════════════════════════════ 👾</text>
+  <h1>🌸 Olá, eu sou a Isabelle!</h1>
+  <p><i>Desenvolvedora Fullstack & UI Designer</i></p>
+
+  <img src="https://img.shields.io/badge/Ciência_da_Computação-🎓-f3e5f5?style=flat-square&logoColor=6a1b9a" />
+  <img src="https://img.shields.io/badge/Formatura-2º_Semestre_2027-f3e5f5?style=flat-square&logoColor=6a1b9a" />
 </div>
 
-### 🎀 Sobre Mim
+<br>
 
-Oi! Que bom ter você por aqui! 💕 Sou estudante de Ciência da Computação e desenvolvedora **Fullstack**. Sou completamente fascinada pelo ponto onde a inovação tecnológica se encontra com a criatividade. Para mim, programar vai muito além da lógica: é sobre tornar a vida das pessoas mais simples, acessível e visualmente bonita!
+### 👩🏻‍💻 Sobre Mim
 
-Quando não estou desvendando o frontend ou estruturando o backend de uma aplicação, você com certeza vai me encontrar:
-* 🎨 Rabiscando novos desenhos ou criando conceitos de identidade visual e marcas.
-* 🎮 No meio de uma partida de *CS2*, correndo pelas estradas de *Forza Horizon* ou jogando de *Akali*.
-* 🏎️ Combinando Ciência de Dados com a minha paixão por automobilismo para simular resultados da Fórmula 1.
-* 🕹️ Criando joguinhos e interfaces fofas.
+Sou estudante de Ciência da Computação e atuo como desenvolvedora **Fullstack**, com foco na união entre inovação tecnológica e identidades visuais estratégicas. Meu objetivo é criar aplicações digitais que sejam funcionais, seguras e esteticamente consistentes.
+
+- 🎓 Graduação em andamento em **Ciência da Computação**.
+- 💡 Experiência no desenvolvimento de interfaces web responsivas e aplicações desktop.
+- 🎨 Forte interesse e atuação em UI/UX e design de marcas.
 
 ---
 
-### 🎒 Meu Inventário (Tecnologias & Skills)
+### 🛠️ Tecnologias e Habilidades
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Z4N3Z0Z3NndXo1cWV6b3N5ZndwY3I0OHVndmN0M3F6bTBpY3F3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mePh7vffmZ74BGeA9v/giphy.gif" width="50" alt="Pixel Cat" />
+  <h4>Frontend & Design</h4>
+  <img src="https://img.shields.io/badge/React-cbaacb?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-cbaacb?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-cbaacb?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-cbaacb?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%2FUX-cbaacb?style=for-the-badge&logo=figma&logoColor=white" />
+
+  <h4>Backend, Dados & Ferramentas</h4>
+  <img src="https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-ffb6c1?style=for-the-badge&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cibersegurança-ffb6c1?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git_&_GitHub-ffb6c1?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-#### 🖥️ Interface & Estética (Frontend)
-* 🌸 **Linguagens:** HTML5, CSS3, JavaScript
-* 🔮 **Framework:** React
-* 📐 **Design:** UI/UX, Design de Marcas e Identidade Visual
+---
 
-#### ⚙️ Lógica & Estrutura (Backend & Dados)
-* 🐍 **Linguagens:** Python (Focado em Data Science aplicada)
-* ⚙️ **Soluções:** Lógica de programação robusta e estruturação Fullstack
+### 📁 Projetos em Destaque
 
-#### 🛠️ Ferramentas & Segurança
-* ⚡ **Desktop:** Electron (Aplicações desktop híbridas)
-* 🛡️ **Segurança:** Fundamentos de Cibersegurança (Cisco Certified)
-* 🐙 **Controle:** Git & GitHub
+* **Pokédex Quiz App:** Aplicação desktop interativa focada em mecânicas de reconhecimento visual (silhuetas), construída utilizando **React** e empacotada com **Electron**.
+* **F1 Data Science Simulation:** Modelo de análise preditiva desenvolvido em **Python**. O algoritmo processa dados históricos de pistas e simula resultados de etapas classificatórias (Qualifying) do automobilismo.
+* **Portfólio Web:** Desenvolvimento de portfólio pessoal responsivo com foco em arquitetura visual estratégica e adaptação perfeita para múltiplos tamanhos de tela.
 
 ---
 
-### 🕹️ Linha do Tempo dos Meus Projetos
-
-* **2026 🐾 Pokédex Quiz App**
-  * Uma aplicação desktop super divertida feita com **React** e **Electron**. O jogo ganhou até um *Modo Difícil* onde você precisa adivinhar qual é o Pokémon usando apenas a silhueta pixelada dele!
-  
-* **2026 🏎️ F1 Data Science Simulation**
-  * Um projeto em **Python** que une minha paixão por corrida e dados. O script analisa o histórico de pistas reais e simula com precisão os tempos e resultados de Qualifying (Q1, Q2 e Q3).
-  
-* **2026 🛡️ Certificação Cisco**
-  * Dediquei um tempo para mergulhar em Cibersegurança, garantindo que tudo o que eu construa no ecossistema Fullstack seja seguro e protegido.
-
-* **2027 🎓 Próximo Level...**
-  * A tão esperada formatura no bacharelado de Ciência da Computação!
-
----
-
-### 💌 Vamos Construir Algo Juntos?
+### 💌 Contato
 
 <div align="center">
-  <p>Se quiser conversar sobre tecnologia, design, jogos ou Fórmula 1, as portas do meu espaço estão sempre abertas! ✨</p>
-
-  <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/E--mail-%F0%9F%8C%B8-f3e5f5?style=for-the-badge&logo=gmail&logoColor=6a1b9a" /></a>
-  <a href="https://linkedin.com/in/seu-perfil"><img src="https://img.shields.io/badge/LinkedIn-%E2%9C%A8-f3e5f5?style=for-the-badge&logo=linkedin&logoColor=6a1b9a" /></a>
-  <a href="https://behance.net/seu-perfil"><img src="https://img.shields.io/badge/Behance-%F0%9F%8E%A8-f3e5f5?style=for-the-badge&logo=behance&logoColor=6a1b9a" /></a>
-  
-  <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=b39ddb&height=60&section=footer" alt="Footer" />
-</div>
+  <p>Fique à vontade para entrar em contato ou conferir mais
